@@ -54,7 +54,6 @@ PIL
 🔮 Future Improvements
 Convert into web app (Streamlit)
 Improve accuracy using ResNet
-Add API deployment
 
 👨‍💻 Author
 
